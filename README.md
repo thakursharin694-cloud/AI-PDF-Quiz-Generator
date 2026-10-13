@@ -6,19 +6,19 @@ AI-Powered PDF Quiz Generator is an interactive application that automatically g
 
 Instead of manually creating questions from study material, users can upload a PDF and generate a quiz based on its content.
 
-## ✨ Features
+##  Features
 
 - 📄 Upload PDF documents
-- 🤖 Generate MCQ questions using AI
-- 🔢 Choose the number of questions
-- 📊 Select quiz difficulty
+-  Generate MCQ questions using AI
+-  Choose the number of questions
+-  Select quiz difficulty
 - ⏱️ Optional time limit for questions
-- 📝 Interactive quiz interface
+-  Interactive quiz interface
 - ✅ Automatic answer evaluation
-- 📈 Score and percentage calculation
-- 🔍 Review correct and incorrect answers
+-  Score and percentage calculation
+-  Review correct and incorrect answers
 - 🔄 Retry the same quiz
-- 📚 Generate a new quiz from another PDF
+-  Generate a new quiz from another PDF
 
 ## ⚙️ How It Works
 
